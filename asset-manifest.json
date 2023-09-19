@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/dmsrb0125/react-for-beginners/static/js/main.1a0ecce0.js",
-    "index.html": "/dmsrb0125/react-for-beginners/index.html",
-    "main.1a0ecce0.js.map": "/dmsrb0125/react-for-beginners/static/js/main.1a0ecce0.js.map"
+    "main.js": "/static/js/main.1a0ecce0.js",
+    "index.html": "/index.html",
+    "main.1a0ecce0.js.map": "/static/js/main.1a0ecce0.js.map"
   },
   "entrypoints": [
     "static/js/main.1a0ecce0.js"
